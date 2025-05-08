@@ -63,7 +63,7 @@ const SearchResult = (props: SearchResultProps) => {
         >
             <Box mt={2} flex alignItems="center">
                 <ProfileIcon />
-                <FileText size="small">Hồ sơ</FileText>
+                <FileText size="small">Đơn hàng</FileText>
             </Box>
         </StyledListItem>
     );

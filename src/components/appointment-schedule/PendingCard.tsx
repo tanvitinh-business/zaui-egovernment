@@ -35,7 +35,7 @@ const PendingCard: FC = () => {
                 </Box>
                 <Box mt={3}>
                     <Content>
-                        Cán bộ nhân viên sẽ xử lý xác nhận lịch làm việc của bạn
+                        Cảm ơn anh/chị tin tưởng và sử dụng dịch vụ. Tấn Vi Tính sẽ xử lý xác nhận lịch làm việc của bạn
                         trong thời gian sớm nhất.
                     </Content>
                 </Box>

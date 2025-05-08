@@ -33,7 +33,7 @@ const SearchInput: FC<SearchInputProps> = props => {
             ...rest,
         };
 
-        searchProps.placeholder = "Nhập mã số hồ sơ";
+        searchProps.placeholder = "Nhập mã đơn hàng";
         return <StyledSearchInput {...searchProps} onChange={onInputChange} />;
     }, [onInputChange]);
 

@@ -18,13 +18,13 @@ export const APP_UTINITIES: Array<Utinity> = [
     },
     {
         key: "info",
-        label: "Thông tin - hướng dẫn",
+        label: "MÁY VI TÍNH-PC-LAPTOP",
         icon: Icon.BookIcon,
         path: "/information-guide",
     },
     {
         key: "feedback",
-        label: "Góp ý - phản ánh",
+        label: "Thông tin ghi chú",
         icon: Icon.PenIcon,
         path: "/feedbacks",
     },

@@ -76,7 +76,7 @@ const ProfileInfo: FC<ProfileInfoProps> = props => {
                         <Divider />
                     </Box>
                     <Box p={0} flex flexDirection="row" alignItems="center">
-                        <IDText size="large">Mã số hồ sơ: {profileCode}</IDText>
+                        <IDText size="large">Mã đơn hàng: {profileCode}</IDText>
                         <CopyButton content={profileCode ?? ""} />
                     </Box>
 

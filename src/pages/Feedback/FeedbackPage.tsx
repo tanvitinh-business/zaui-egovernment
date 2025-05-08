@@ -30,13 +30,13 @@ const FeedbackPage: React.FC = () => {
     return (
         <PageLayout title="Góp ý - phản ánh" id="feedbacks" ref={pageRef}>
             <InfoContainer p={8} m={0}>
-                <Title>Bạn có sự việc cần phản ánh?</Title>
+                <Title>Quý khách có thông tin cần ghi chú?</Title>
 
                 <Button
                     onClick={onSendFeedback}
                     suffixIcon={<Icon icon="zi-chevron-right" />}
                 >
-                    Gửi phản ánh
+                    Gửi ghi chú
                 </Button>
             </InfoContainer>
 

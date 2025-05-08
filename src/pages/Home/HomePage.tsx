@@ -17,7 +17,7 @@ const HomePage: React.FunctionComponent = () => {
             id="home-page"
             customHeader={
                 <HomeHeader
-                    title="DỊCH VỤ CÔNG"
+                    title="TẤN VI TÍNH"
                     name={organization?.name || ""}
                 />
             }

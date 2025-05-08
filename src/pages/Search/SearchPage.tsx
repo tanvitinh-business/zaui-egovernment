@@ -43,7 +43,7 @@ const SearchPage: React.FC<PropsType> = () => {
     }, [searchProfiles, SearchValue]);
 
     return (
-        <PageLayout title="Tra cứu hồ sơ">
+        <PageLayout title="Tra cứu đơn hàng">
             <Wrapper p={0}>
                 <form>
                     <Box

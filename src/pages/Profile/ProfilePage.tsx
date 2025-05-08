@@ -20,7 +20,7 @@ const ProfilePage: FC = () => {
     }, [id]);
 
     return (
-        <PageLayout bg="white" title="Chi tiết hồ sơ">
+        <PageLayout bg="white" title="Chi tiết đơn hàng">
             {profile && <ProfileInfo profile={profile} />}
         </PageLayout>
     );

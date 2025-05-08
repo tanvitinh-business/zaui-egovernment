@@ -61,7 +61,7 @@ export const CreateScheduleForm = () => {
                 <Box p={4}>
                     <Text tw="text-text_2 text-center">
                         Vui lòng chọn ngày làm việc mong muốn và điền đầy đủ
-                        thông tin cá nhân
+                        thông tin cá nhân. Cảm ơn quý khách
                     </Text>
                 </Box>
 

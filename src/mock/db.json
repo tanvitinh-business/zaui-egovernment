@@ -3,18 +3,18 @@
         "officialAccounts": [
             {
                 "id": "oa1",
-                "name": "OA Chính quyền cơ sở",
-                "description": "Quận huyện, Tỉnh, Thành Phố "
+                "name": "OA Tấn Vi Tính",
+                "description": "Phú Thuận B, Hồng Ngự, Đồng Tháp"
             }
         ],
         "id": "org1",
         "logoUrl": "",
         "description": "Organization description",
-        "name": "Ban ngành, chính quyền cơ sở"
+        "name": "Business •Công nghệ & Thiết bị"
     },
     "profiles": [
         {
-            "name": "John Doe",
+            "name": "TVT",
             "dueDate": "2023-07-06T10:00:00Z",
             "profileCode": "ABC123",
             "notifications": [

@@ -58,7 +58,7 @@ const InformationGuidePage: React.FC = () => {
     return (
         <PageLayout
             tw="bg-white"
-            title="Thông tin - hướng dẫn"
+            title="MÁY VI TÍNH-PC-LAPTOP"
             id="informationGuides"
         >
             <InfiniteScroll

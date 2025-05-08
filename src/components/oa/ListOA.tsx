@@ -26,7 +26,7 @@ const ListOA: FC<any> = () => {
     return (
         <ListWrapper mt={2} p={4}>
             <Text.Title size="small">Danh bạ</Text.Title>
-            <SubTitle size="small">OA chính thức của cơ quan nhà nước</SubTitle>
+            <SubTitle size="small">OA chính thức của Tấn Vi Tính</SubTitle>
 
             <ListOAStyled>
                 {!loading &&
