@@ -64,7 +64,7 @@ const SelectFeedbackType: React.FC<SelectFeedbackTypeProps> = ({
 
     return (
         <FormItem>
-            <Label>Mục phản ánh</Label>
+            <Label>Mục thông tin ghi chú</Label>
 
             {feedbackTypes && (
                 <>

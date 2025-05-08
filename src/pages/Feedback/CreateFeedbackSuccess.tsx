@@ -21,7 +21,7 @@ const CreateFeedbackSuccess: React.FC = () => {
         <SuccessContainer>
             <Box py={10} flex flexDirection="column" alignItems="center">
                 <SuccessIcon />
-                <Description>Gửi phản ánh thành công</Description>
+                <Description>Gửi thông tin ghi chú thành công</Description>
             </Box>
             <Box my={4}>
                 <Divider />

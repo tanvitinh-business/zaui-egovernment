@@ -163,9 +163,9 @@ const CreateFeedbackForm: React.FC<CreateFeedbackFormProps> = ({
                 </Box>
                 <Box mt={4}>
                     <TextArea
-                        placeholder="Nhập nội dung"
-                        label="Nội dụng phản ánh*"
-                        errorText={getErrorMessage("content")}
+                        placeholder="Nhập thông tin ghi chú"
+                        label="Nội dụng thông tin ghi chú"
+                        errorText={getErrorMessage("cochúntent")}
                         {...register("content", { required: true })}
                         status={errors?.content ? "error" : "default"}
                     />

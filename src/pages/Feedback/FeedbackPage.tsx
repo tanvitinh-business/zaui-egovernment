@@ -28,7 +28,7 @@ const FeedbackPage: React.FC = () => {
     };
 
     return (
-        <PageLayout title="Góp ý - phản ánh" id="feedbacks" ref={pageRef}>
+        <PageLayout title="Thông tin ghi chú" id="feedbacks" ref={pageRef}>
             <InfoContainer p={8} m={0}>
                 <Title>Quý khách có thông tin cần ghi chú?</Title>
 

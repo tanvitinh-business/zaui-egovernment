@@ -65,7 +65,7 @@ const FeedbackDetailPage: React.FC = () => {
     }, [id]);
 
     return (
-        <PageLayout title="Chi tiết phản ánh">
+        <PageLayout title="Chi tiết thông tin ghi chú">
             {feedback?.imageUrls && (
                 <ImageSwiper imageUrls={feedback.imageUrls} />
             )}
@@ -91,7 +91,7 @@ const FeedbackDetailPage: React.FC = () => {
 
             <Container p={4}>
                 <HeaderContainer>
-                    <Title>Trả lời phản ánh</Title>
+                    <Title>Trả lời thông tin ghi chú</Title>
                     <TimeContainer>
                         <Date>{formatDateTime(feedback?.responseTime)}</Date>
                         <Icon size={13} icon="zi-clock-1" />
